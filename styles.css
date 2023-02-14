@@ -1,0 +1,47 @@
+
+.textos {
+    margin: 50px;
+}
+
+h1 {
+    font-size: 59px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+ul {
+    font-size: 30px;
+    
+}
+
+ol {
+    font-size: 30px;
+    
+}
+
+a {
+    font-size: 30px;
+}
+
+.caixa {
+
+    width: 100vw;
+    text-align: center;
+    background-color: #1e2b41;
+}
+
+img {
+    width: 50vw;
+    height: auto;
+    
+}
